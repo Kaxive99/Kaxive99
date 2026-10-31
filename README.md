@@ -1,11 +1,15 @@
-### Eric Sharma
-
-C++ & Embedded Systems enthusiast. 
+### ⚙️ Eric Sharma
+> Low-level code, embedded systems, and C++ projects.
 
 ```cpp
-struct Developer {
-    std::string location = "Poland";
-    std::string mainLanguage = "C++";
-    std::vector<std::string> tools = {"CLion", "PlatformIO", "ESP32", "Git"};
-    bool buildingCoolStuff = true;
-};
+#include <iostream>
+
+int main() {
+    std::cout << "Building firmware & software." << std::endl;
+    return 0;
+}
+🛠️ Tech Stack
+Languages: ⚡ C++, 🐍 Python, 🎯 C#
+Embedded & HW: 🔌 ESP32, 📦 PlatformIO, ⚙️ CMake, 📐 Fusion 360
+
+Workflow: 💻 macOS / Linux, 🚀 CLion, 🐙 Git & GitHub Desktop
