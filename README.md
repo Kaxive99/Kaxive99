@@ -9,7 +9,7 @@ int main() {
     return 0;
 }
 🛠️ Tech Stack
-Languages: ⚡ C++, 🐍 Python, 🎯 C#
+Languages: ⚡ C++
 Embedded & HW: 🔌 ESP32, 📦 PlatformIO, ⚙️ CMake, 📐 Fusion 360
 
 Workflow: 💻 macOS / Linux, 🚀 CLion, 🐙 Git & GitHub Desktop
