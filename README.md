@@ -10,7 +10,7 @@ int main() {
 }
 🛠️ Tech Stack
 Languages: ⚡ C++
-Embedded & HW: 🔌 ESP32, 📦 PlatformIO, ⚙️ CMake, 📐 Fusion 360
+Embedded & HW: 🔌 ESP32, 📦 PlatformIO, 📐 Fusion 360
 
 Workflow: 💻 macOS / Linux, 🚀 CLion, 🐙 Git & GitHub Desktop
 
